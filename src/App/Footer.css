@@ -1,0 +1,9 @@
+ul {
+  list-style-type: none;
+  padding-left: 0px;
+}
+
+button.donate {
+	font-family: Futura, Helvetica, sans-serif;
+	color: #007aff !important;
+}

@@ -1,0 +1,25 @@
+.TagsList__Tag {
+    background: #E1ECF4;
+    padding: 5px;
+    display: inline-block;
+}
+
+.TagsList__Tag:hover {
+    background: #819af4;
+}
+
+.TagsList__Tag:after {
+    background: #ffffff;
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    bottom: 10px;
+}
+
+.TagsList__Tag:before {
+    background: #ffffff;
+}
+
+.EditCampaignPageForm__root .EditCampaignPageForm__section {
+    display: block;
+}

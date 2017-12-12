@@ -1,0 +1,52 @@
+/*.App {
+  text-align: center;
+}
+*/
+.App-intro {
+  font-size: large;
+}
+
+body {
+  font-family: Helvetica, sans-serif;
+  padding-top: 51px; 
+  background-color: ;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family: Futura, Helvetica, sans-serif;
+}
+
+h5.address, p.address {
+	overflow: auto;
+	word-wrap: break-word;
+	word-break: break-all;
+	overflow-y: hidden;
+}
+
+.start-container {
+	margin: auto !important;
+	max-width: 500px;
+}
+
+element {
+  --main-color: #159CFB;
+}
+
+.navbar {
+    -webkit-box-shadow: 0 4px 6px -6px #000;
+    -moz-box-shadow: 0 4px 6px -6px #000;
+    box-shadow: 0 4px 6px -6px #000;
+}
+
+.top-section {
+	font-family: Futura, Helvetica, sans-serif;
+/*	background-color: #007aff;*/
+	background: linear-gradient(45deg, #0551F3, #007aff);;
+	color: white;
+	min-height: 100px;
+}
+
+a.campaign-card {
+  text-decoration: none;
+  font-family: Helvetica, sans-serif;
+}
